@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/daftra-task/static/css/main.f3d28bff.css",
+    "main.js": "/daftra-task/static/js/main.bf7b16da.js",
+    "static/media/profile.jpg": "/daftra-task/static/media/profile.6931999ff2cd1c2fd699.jpg",
+    "index.html": "/daftra-task/index.html",
+    "main.f3d28bff.css.map": "/daftra-task/static/css/main.f3d28bff.css.map",
+    "main.bf7b16da.js.map": "/daftra-task/static/js/main.bf7b16da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3d28bff.css",
+    "static/js/main.bf7b16da.js"
+  ]
+}
