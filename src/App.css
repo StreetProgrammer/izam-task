@@ -1,0 +1,7 @@
+body {
+  font-family: "DM Sans", serif;
+}
+
+body * {
+  font-family: "DM Sans", serif !important;
+}
