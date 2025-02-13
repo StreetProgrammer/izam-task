@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/izam-task/static/css/main.f3d28bff.css",
-    "main.js": "/izam-task/static/js/main.04adfba3.js",
+    "main.js": "/izam-task/static/js/main.c3967876.js",
     "static/media/profile.jpg": "/izam-task/static/media/profile.6931999ff2cd1c2fd699.jpg",
     "index.html": "/izam-task/index.html",
     "main.f3d28bff.css.map": "/izam-task/static/css/main.f3d28bff.css.map",
-    "main.04adfba3.js.map": "/izam-task/static/js/main.04adfba3.js.map"
+    "main.c3967876.js.map": "/izam-task/static/js/main.c3967876.js.map"
   },
   "entrypoints": [
     "static/css/main.f3d28bff.css",
-    "static/js/main.04adfba3.js"
+    "static/js/main.c3967876.js"
   ]
 }
